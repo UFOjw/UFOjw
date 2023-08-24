@@ -13,7 +13,3 @@ I design, build and operate models and I want to be the one who creates the new.
 ![FastAPI](https://img.shields.io/badge/-FASTAPI-000000?style=for-the-badge&logo=FastAPI)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=PyTorch)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=UFOjw">
-</div>
